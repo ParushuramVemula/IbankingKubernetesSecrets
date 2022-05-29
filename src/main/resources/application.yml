@@ -8,3 +8,7 @@ db:
  
 management:  endpoints:    web:      exposure:        include: "*"
           endpoint:    health:      probes:        enabled: true
+        
+benefit:
+ benefitType: Medical
+ sponsorProductDisplayName: Medical 7030MA plan        
